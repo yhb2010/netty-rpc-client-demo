@@ -1,5 +1,3 @@
-server:
-  port: 30221
-
-rpc:
-  address: ip104:2181
+spring:
+  profiles:
+    active: loc
